@@ -1,247 +1,96 @@
-### I'm OGGY BOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
-<p align="center">
-<img src="https://i.ibb.co/6N81QKR/20210418-201428.jpg" alt="20210103-132024" border="0">
-</p>
-<p align="center">
-<a href="https://github.com/Oggyser">
-</p>
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://wa.me/919605243185" target="blank"><img align="centre" src="https://img.icons8.com/doodle/48/000000/whatsapp.png" alt="Oggyser" height="30" width="40" /></a>
-</p>
+# wabot-aq
 
+Simple WhatsApp Bot
 
-## Things I Code With
-<p>
-    <img
-        src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-    <img
-        src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-
-## Tools
+## FOR TERMUX USER
 
 ```bash
-> Termux
-> WhatsApp
-> 2 HandPhone
-```
-
-## Install
-Follow The Steps Below!
-
-```bash
-> termux-setup-storage
-(after that tap on permission)
-> pkg update -y
-> pkg upgrade -y
-> pkg install python -y
+> pkg update && pkg upgrade
 > pkg install git -y
-> git clone https://github.com/Oggyser/hans-whatsapp-bot
-> cd termux-bot-wa
-> bash install.sh
-> npm start 
+> pkg install nodejs -y
+> pkg install ffmpeg -y
+> pkg install imagemagick -y
+> git clone https://github.com/Nurutomo/wabot-aq
+> cd wabot-aq
+> npm install
 ```
 
-## Features
+---------
 
-| NEW USER | YES
-| :---------------------------------------------: | :-----------: |
-|  verify|✅|
+## FOR WINDOWS/VPS/RDP USER
 
-|  CREATOR  |                                           YES |
-| :---------------------------------------------: | :-----------: |
-| Sticker Maker|✅|
-| Sticker Gif Maker|✅|
-| Convert Sticker To Image|✅|
-| Convert Video To MP3|✅|
-| Black Pink Logo Maker|✅|
-| 3D Text Maker|✅|
-| Glitch|✅|
-| Quote Maker|✅|
-| Water Maker|✅|
-| Fire Text Maker
-| Marvel Logo Maker|✅|
-| Snow Write Maker|✅|
-| Ninja Logo Maker|✅|
-| Logo Wolf Maker|✅|
-| And much more |✅|
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path)
+* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6)
 
-| MEDIA | YES |
-| :-----------------: | :-------: |
-| Trend Twit|✅|
-| YT Search|✅|
-| Wattpad Search|✅|
+```bash
+> git clone https://github.com/Nurutomo/wabot-aq
+> cd wabot-aq
+> npm install
+```
 
-| EDUCATION | YES |
-| :-----------------: | :-------: |
-| The Meaning Of The Name|✅|
-| Text To Sticker|✅|
-| Nulis Name/class/text|✅|
-| Quotes|✅|
+---------
 
-| DOWNLOADER | YES |
-| :-----------------: | :-------: |
-| Pinterest Downloader|✅|
+## Run
 
-| MEME | YES |
-| :-----------------: | :-------: |
-| Meme|✅|
-| Meme Indo|✅|
+```bash
+> node . [<session name>] (session name is optional)
+```
 
-| GROUP | YES |
-| :-----------------: | :-------: |
-| Anti link|✅|
-| Open Group|✅|
-| Link Group|✅|
-| info Group|✅|
-| Close Group|✅|
-| Promote Member|✅|
-| Demote Member|✅|
-| Hide Tag|✅|
-| Tag All Members|✅|
-| Add Member|✅|
-| Kick Member|✅|
-| Show List Admins|✅|
-| Leave Group|✅|
-| Show Owner Group|✅|
-| welcome New Members|✅|
-| Nsfw|✅|
+---------
 
-| SOUND | YES |
-| :-----------------: | :-------: |
-| Text To Speach|✅|
+## Arguments `node . [--options] [<session name>]`
 
-| MUSIC | YES |
-| :-----------------: | :-------: |
-| Music Lyrics|✅|
-| Chord Guitar|✅|
+### `--self`
 
-| ISLAM | YES |
-| :-----------------: | :-------: |
-| Qur'an|✅|
-| Qur'an Surah 1,2,3 dll |✅|
+Activate self mode (Ignores other)
 
-| STALK | YES |
-| :-----------------: | :-------: |
-| Instagram Stalk|✅|
-| Tiktok Stalk|✅|
+### `--prefix <prefixes>`
 
-| WIBU | YES |
-| :-----------------: | :-------: |
-| Neonime|✅|
-| Pokemon|✅|
-| Nekonime|✅|
-| Shota|✅|
-| Kaneki|✅|
-| Touka chan|✅|
-| Naruto|✅|
-| Loli|✅|
-| Random Shota|✅|
-| Random Waifu|✅|
-| Random Anime|✅|
-| And much more|✅|
+* `prefixes` are seperated by each character
+Set prefix
 
-| FUN | YES |
-| :-----------------: | :-------: |
-| Kucing|✅|
-| Anjing|✅|
-| Alay|✅|
-| hilih|✅|
-| Cek Ganteng|✅|
-| Cantik cek|✅|
-| Watak|✅|
-| Quotes bucin|✅|
-| Kata Cinta|✅|
-| Random Hobby|✅|
-| Search Image [optional]|✅|
-| Pinterest [Optional] |✅|
-| Truth Or Dare |✅|
-| Dark Jokes|✅|
-| Apakah|✅|
-| Kapankah|✅|
-| Bisakah|✅|
-| Rate|✅|
+### `--server`
 
-| INFORMATION | YES |
-| :-----------------: | :-------: |
-| List Bahasa|✅|
-| Information Weather|✅|
-| KBBI|✅|
-| Fakta|✅|
-| Covid|✅|
-| Gempa Terkini|✅|
+Used for [heroku](https://heroku.com/) or scan through website
 
-| 18+ |  NO
-| :-----------------: | :-------: |
-| Random Hentai|X|
-| NSFW Neko|X|
-| NSFW Blowjob |X|
-| NSFW Loli|X|
-| NSFW Anime|X|
-| Asupan|X|
+### `--big-qr`
 
-| OWNER | YES |
-| :-----------------: | :-------: |
-| Add bucin|✅|
-| Set pp bot|✅|
-| Set Limit Harian|✅|
-| Set Limit Member Group|✅|
-| Set Reply Chat|✅|
-| add premium |✅|
-| Banned Member|✅|
-| Unbanned Member|✅|
-| Block Member|✅|
-| Unblock Member|✅|
-| remove premium |✅|
-| Set Prefix|✅|
-| Block Member|✅|
-| Broadcast|✅|
-| Group Broadcast|✅|
-| Clear All Chat|✅|
-| Bott aktif/nonaktif|✅|
+If small qr unicode doesn't support
 
-| PREMIUM MENU | YES |
-| :-----------------: | :-------: |
-| Youtube mp3 Download|✅|
-| Tiktok Downloader|✅|
-| Youtube mp4 Download|✅|
-| Joox|✅|
-| Facebook Video Download|✅|
-| Snack Video Download|✅|
-| Play Mp3|✅|
+### `--restrict`
 
-OGGY  BOT | YES |
-| :-----------------: | :-------: |
-| info|✅|
-| Premium List|✅|
-| User list|✅|
-| Banned list|✅|
-| Block list|✅|
+Enables restricted plugins (which can lead your number to be **banned** if used too often)
 
+* Group Administration `add, kick`
 
-## Note
+### `--img`
 
-* Dont Forget Stars
+Enable image inspector through terminal
 
-* |En| And You can add your own quotes
-* |Ind| Dan Kalian Bisa tambahkan Quotes Kalian
+### `--nyimak`
 
+No bot, just print received messages and add users to database
 
-## Special Thanks
+### `--test`
 
-* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-* <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-* <a href="https://github.com/nurutomo"><img alt="GitHub" src="https://img.shields.io/badge/nurutomo%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-* <a href="https://github.com/affisjunianto"><img alt="GitHub" src="https://img.shields.io/badge/affisjunianto%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-* <img alt="GitHub" src="https://img.shields.io/badge/TEAM FXC7BOT%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-* * <a href="https://github.com/Fxc7"><img alt="GitHub" src="https://img.shields.io/badge/affisjunianto%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-* <img alt="GitHub" src="https://img.shields.io/badge/TEAM FXC7BOT%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+**Development** Testing Mode
 
+### `--trace`
 
+```js
+conn.logger.level = 'trace'
+```
 
-## OWNER CONTACTS
+### `--debug`
 
-* <a href="wa.me/919605243185"/></a>
+```js
+conn.logger.level = 'debug'
+```
 
----
+---------
+
+#### Powered By : [`XTEAM`](https://api.xteam.xyz)
+
+#### Author / Creator : [`Nurutomo`](https://GitHub.com/Nurutomo)
